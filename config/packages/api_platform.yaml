@@ -1,0 +1,13 @@
+api_platform:
+
+  # The title of the API.
+  title: 'Cinema App'
+
+  # The description of the API.
+  description: 'Cinema application with symfony'
+
+  # The version of the API.
+  version: '0.0.0'
+
+  # Set this to false if you want Webby to disappear.
+  show_webby: true
